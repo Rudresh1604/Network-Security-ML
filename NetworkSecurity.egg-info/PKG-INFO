@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Rudresh Dharkar
+Author-email: rudreshdharkar@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
